@@ -5,6 +5,9 @@ body{
     background: #000;
     font-family: 'Questrial', sans-serif;
 }
+html {
+  scroll-behavior: smooth;
+}
 header {
    position: fixed;
    z-index: 99;
